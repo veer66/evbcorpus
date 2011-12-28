@@ -1,4 +1,4 @@
-1. Yêu cầu cấu hình
+=1. Yêu cầu cấu hình=
 
     Hệ điều hành: Windows XP / Windows 7
     Framkework: .NET 2.0 - địa chỉ download là http://www.microsoft.com/download/en/details.aspx?id=19
@@ -7,13 +7,13 @@
     Chương trình: BiCorpusAnno - địa chỉ download là http://www.mediafire.com/file/8crdop4c9nk6ot4/BiCorpusAnno.rar 
     Download file rar và unzip chương trình. Trường hợp cần phải có Winrar để unzip, có thể download file cài dặt tại http://www.download.com.vn/data+file/more+data+file/5250_winrar-32-bit.aspx
 
-2. Cách chạy chương trình
+=2. Cách chạy chương trình=
 
-2.1. Chay chương trình BiCorpusAnno.exe
+==2.1. Chay chương trình BiCorpusAnno.exe==
 
 Hình 1: Giao diện chính của chương trình
 
-2.2. Mở file dữ liệu
+==2.2. Mở file dữ liệu==
 
 Thực hiện trên tab HTML Maker. Click vào icon Open và chọn file dữ liệu cần chỉnh sửa. Ví dụ như file dữ liệu: Life of Pi.evss.html.
 	
@@ -25,9 +25,9 @@ Hoặc ví dụ như file dữ liệu: N0086.evbcorpus.html
 
 Hình 2b: Giao diện file dữ liệu được mở
 
-4. Tiến hành chỉnh sửa dữ liệu liên kết từ
+=4. Tiến hành chỉnh sửa dữ liệu liên kết từ=
 
-4.1. Cách dùng chương trình
+==4.1. Cách dùng chương trình==
 
 Click lên icon Align Chunks trên box Annotation.
 Chương trình sẽ mở form mới để bắt đầu tiến trình kiểm tra và chỉnh sửa kết quả liên kết (Hình 5).
@@ -64,7 +64,7 @@ Hoàn tất và lưu dữ liệu:
 Sau khi thực hiện hoàn tất tất cả các cặp paragraph, đóng cửa sổ hiện tại với xác nhận cập nhật dữ liệu lên cửa sổ chính (file dữ liệu đang mở). Đồng thời thoát ra form chính bên ngoài và nhấn nút SAVE. Lưu ý, cần nhấn nút SAVE để lưu dữ liệu.
 	
 
-4.2. Tiêu chí chỉnh sữa dữ liệu liên kết từ
+==4.2. Tiêu chí chỉnh sữa dữ liệu liên kết từ==
 
 Một số tiêu chí chỉnh sửa dữ liệu liên kết từ như sau:
 
@@ -74,7 +74,7 @@ Một số tiêu chí chỉnh sửa dữ liệu liên kết từ như sau:
 
     Các nghĩa "bị", "đang", "được" ... thường được liên kết gắn vào động từ chứ không liên kết với toBE.
 
-4.3. Các button tinh chỉnh giao diện chương trình
+==4.3. Các button tinh chỉnh giao diện chương trình==
 
 (1) 	
 
@@ -106,7 +106,7 @@ Hiển thị / Ẩn cửa sổ từ điển hỗ trợ.
 
 Đối với những cặp câu dài, có thể điều chỉnh kích thước giữa các node hoặc size font chữ để có được overview tốt nhất cho toàn nội dung cặp câu.
 
-4.4. Các phím chức năng dùng trong form chỉnh sửa kết quả liên kết từ
+==4.4. Các phím chức năng dùng trong form chỉnh sửa kết quả liên kết từ==
 
 Delete 	
 
