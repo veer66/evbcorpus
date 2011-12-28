@@ -1,0 +1,132 @@
+1. Yêu cầu cấu hình
+
+    Hệ điều hành: Windows XP / Windows 7
+    Framkework: .NET 2.0 - địa chỉ download là http://www.microsoft.com/download/en/details.aspx?id=19
+    Trường hợp hệ điều hành là Windows 7 thì không cần phải cài .Net Framwork 2.0 nữa. Vì bản thân nó support sẵn rồi.
+
+    Chương trình: BiCorpusAnno - địa chỉ download là http://www.mediafire.com/file/8crdop4c9nk6ot4/BiCorpusAnno.rar 
+    Download file rar và unzip chương trình. Trường hợp cần phải có Winrar để unzip, có thể download file cài dặt tại http://www.download.com.vn/data+file/more+data+file/5250_winrar-32-bit.aspx
+
+2. Cách chạy chương trình
+
+2.1. Chay chương trình BiCorpusAnno.exe
+
+Hình 1: Giao diện chính của chương trình
+
+2.2. Mở file dữ liệu
+
+Thực hiện trên tab HTML Maker. Click vào icon Open và chọn file dữ liệu cần chỉnh sửa. Ví dụ như file dữ liệu: Life of Pi.evss.html.
+	
+
+Hình 2a: Giao diện file dữ liệu được mở
+
+Hoặc ví dụ như file dữ liệu: N0086.evbcorpus.html
+	
+
+Hình 2b: Giao diện file dữ liệu được mở
+
+4. Tiến hành chỉnh sửa dữ liệu liên kết từ
+
+4.1. Cách dùng chương trình
+
+Click lên icon Align Chunks trên box Annotation.
+Chương trình sẽ mở form mới để bắt đầu tiến trình kiểm tra và chỉnh sửa kết quả liên kết (Hình 5).
+
+Cửa sổ chương trình cho phần chỉnh sửa các cặp liên kết:
+
+	
+
+Hình 5: Cửa sổ chương trình cho phần chỉnh sửa liên kết
+
+Mỗi lần như vậy chỉnh sửa một đoạn gồm nhiều cặp câu. Các cặp câu được liên kết từ Anh-Việt tương ứng. Sử dụng chuột và phím nóng để thêm, xóa và sữa các liên kết từ.
+
+Một số hướng dẫn:
+
+    Để thêm liên kết mới: chọn cụm từ cần liên kết ở phần tiếng Anh và thả vào node gốc của từ hoặc cụm từ cần liên kết ở trên câu tiếng Việt (và ngược lại).
+
+    Để xóa liên kết cũ: Có 2 cách.
+
+        Cách 1: Chọn liên kết cần xóa, nhấn phím DELETE hoặc kéo nó ra xa khỏi vị trí hiện tại và thả chuột (tương tự như kéo quang đi).
+
+        Cách 2: Chọn cụm từ có liên kết cần xóa, nhấn tổ hợp phím Ctrl + 0 (số không) 
+
+    Hoàn tất chỉnh sửa cặp hiện tại, qua cặp kế tiếp.
+
+    Sau khi ENTER tại các vị trí số 1, 2; lúc này số câu 2 bên đã là 12:12. Và tương ứng dịch 1-1. Thao tác hoàn tất cho cặp hiện tại. Nhấn nút >> để đi đến cặp kế tiếp.
+    	
+
+    Có thể chỉnh sửa cho cả tiếng Anh lẫn tiếng Việt.
+
+    Lưu ý, một cặp paragraph có thể gồm một hoặc nhiều cặp câu.
+
+Hoàn tất và lưu dữ liệu:
+
+Sau khi thực hiện hoàn tất tất cả các cặp paragraph, đóng cửa sổ hiện tại với xác nhận cập nhật dữ liệu lên cửa sổ chính (file dữ liệu đang mở). Đồng thời thoát ra form chính bên ngoài và nhấn nút SAVE. Lưu ý, cần nhấn nút SAVE để lưu dữ liệu.
+	
+
+4.2. Tiêu chí chỉnh sữa dữ liệu liên kết từ
+
+Một số tiêu chí chỉnh sửa dữ liệu liên kết từ như sau:
+
+    Có thể chỉnh sửa cho cả tiếng Anh lẫn tiếng Việt, bao gồm chỉnh từ (chính tả) và chỉnh cấu trúc, cũng có thể xóa bỏ những từ không được dịch trong cả 2 ngôn ngữ bằng cách chọn từ đó rồi nhấn DELETE.
+
+    Liên kết ở mức từ tối đa, trong trường hợp nghĩa phải là của một cụm từ thì mới liên kết cụm.
+
+    Các nghĩa "bị", "đang", "được" ... thường được liên kết gắn vào động từ chứ không liên kết với toBE.
+
+4.3. Các button tinh chỉnh giao diện chương trình
+
+(1) 	
+
+Chọn cặp kế tiếp cho thao tác kiểm tra dữ liệu
+(2) 	
+
+Chỉnh sửa cao cấp (dùng cho các thao tác đặc biệt. Khuyến cáo không nên dùng, vì có thể ảnh hướng đến cấu trúc dữ liệu.
+(3), (6) 	
+
+Tăng / giảm khoảng cách giữa 2 level của cây.
+(4), (7) 	
+
+Tăng / giảm khoảng cách giữa 2 cây.
+(5), (8) 	
+
+Tăng / giảm khoảng cách giữa 2 node lá của cây.
+(9) 	
+
+Hiện / ẩn icon + / - để đóng / mở cây.
+(10) 	
+
+Hiển thị node gốc (S) hay không.
+(11) 	
+
+Hiển thị index của các node lá.
+(12) 	
+
+Hiển thị / Ẩn cửa sổ từ điển hỗ trợ.
+
+Đối với những cặp câu dài, có thể điều chỉnh kích thước giữa các node hoặc size font chữ để có được overview tốt nhất cho toàn nội dung cặp câu.
+
+4.4. Các phím chức năng dùng trong form chỉnh sửa kết quả liên kết từ
+
+Delete 	
+
+Dùng để xóa node lá hoặc node gốc trên cùng (trong một số trường hợp)
+Dùng để xóa liên kết đang chọn lựa.
+Insert 	Dùng để chèn node bên trái node lá đang được chọn.
+Ctrl+Insert 	Dùng để chèn node bên phải node lá đang được chọn.
+Escc 	Thoát thao tác drap node/align để tạo liên kết
+Ctrl + +/- 	
+
+Zoom In/Out để tăng kích thước font chữ.
+Scroll chuột 	
+
+Cuộn vùng view của cây lên / xuống.
+Ctrl + scroll chuột 	
+
+Zoom In/Out để tăng kích thước font chữ.
+Alt + Scroll chuột 	
+
+Cuộn vùng view của cây sang trái / phải
+Ctrl + 0 	
+
+Hủy tất cả các liên kết với các node đang select
