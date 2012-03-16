@@ -3,30 +3,23 @@
 === 1. Yêu cầu cấu hình ===
 
   * Hệ điều hành: Windows XP / Windows 7
-  * Framkework: .NET 2.0 - địa chỉ download là http://www.microsoft.com/download/en/details.aspx?id=19
+  * Framkework: .NET 2.0 - địa chỉ download là [http://www.microsoft.com/download/en/details.aspx?id=19]
   Trường hợp hệ điều hành là Windows 7 thì không cần phải cài .Net Framwork 2.0 nữa. Vì bản thân nó support sẵn rồi.
 
-  * Chương trình: BiCA2012 - địa chỉ download là http://code.google.com/p/evbcorpus/downloads/detail?name=BiCA2012.v.1.0.rar 
-  Download file rar và unzip chương trình. Trường hợp cần phải có Winrar để unzip, có thể download file cài dặt tại http://www.download.com.vn/data+file/more+data+file/5250_winrar-32-bit.aspx
-
-[[File:http://www.evtext.net/~hungnq/images/bicorpus03.JPG|thumb|alt=A cartoon centipede reads books and types on a laptop.|The Wikipede edits ''[[Myriapoda]]''.]]
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  * Chương trình: BiCA2012 - địa chỉ download là [http://code.google.com/p/evbcorpus/downloads/detail?name=BiCA2012.v.1.0.rar] 
+  Download file rar và unzip chương trình. Trường hợp cần phải có Winrar để unzip, có thể download file cài dặt tại [http://www.download.com.vn/data+file/more+data+file/5250_winrar-32-bit.aspx]
 
 === 2.  Cách chạy chương trình ===
 
 === 2.1. Chay chương trình BiCA2012.exe ===
-
+[http://www.evtext.net/~hungnq/images/bicorpus01.JPG]
 Hình 1: Giao diện chính của chương trình
 
 === 2.2. Mở file dữ liệu ===
 
 Thực hiện trên tab *HTML Maker*. Click vào icon Open và chọn file dữ liệu cần chỉnh sửa. Ví dụ như file dữ liệu: Life of Pi.evss.html.
 	
-
+[http://www.evtext.net/~hungnq/images/bicorpus02.JPG]
 Hình 2a: Giao diện file dữ liệu được mở
 
 === 4. Tiến hành chỉnh sửa dữ liệu liên kết từ ===
@@ -37,9 +30,7 @@ Click lên icon *Align Chunks* trên box *Annotation*.
 Chương trình sẽ mở form mới để bắt đầu tiến trình kiểm tra và chỉnh sửa kết quả liên kết (Hình 5).
 
 Cửa sổ chương trình cho phần chỉnh sửa các cặp liên kết:
-
-	
-
+[http://www.evtext.net/~hungnq/images/bicorpus03.JPG]
 Hình 5: Cửa sổ chương trình cho phần chỉnh sửa liên kết
 
 Mỗi lần như vậy chỉnh sửa một đoạn gồm nhiều cặp câu. Các cặp câu được liên kết từ Anh-Việt tương ứng. Sử dụng chuột và phím nóng để thêm, xóa và sữa các liên kết từ.
@@ -78,7 +69,7 @@ Một số tiêu chí chỉnh sửa dữ liệu liên kết từ như sau:
     Các nghĩa "bị", "đang", "được" ... thường được liên kết gắn vào động từ chứ không liên kết với toBE.
 
 === 4.3. Các button tinh chỉnh giao diện chương trình ===
-
+[http://www.evtext.net/~hungnq/images/bicorpus04.JPG]
 Clipboard 	
 
 Các button liên quan đến thao tác clipboard gồm có: Save (lưu dữ liệu), Undo (hũy thao tác vừa thực hiện), Cut (xóa node/liên kết đang chọn)
