@@ -1,4 +1,4 @@
-# Hướng dẫn sử dụng BiCA2012
+#summary Hướng dẫn sử dụng BiCA2012
 
 === 1. Yêu cầu cấu hình ===
 
