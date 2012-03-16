@@ -6,8 +6,10 @@
   * Framkework: .NET 2.0 - địa chỉ download là http://www.microsoft.com/download/en/details.aspx?id=19
   Trường hợp hệ điều hành là Windows 7 thì không cần phải cài .Net Framwork 2.0 nữa. Vì bản thân nó support sẵn rồi.
 
-  * Chương trình: BiCA2012 - địa chỉ download là [http://www.evtext.net/~hungnq/BiCA2012.rar] 
+  * Chương trình: BiCA2012 - địa chỉ download là http://code.google.com/p/evbcorpus/downloads/detail?name=BiCA2012.v.1.0.rar 
   Download file rar và unzip chương trình. Trường hợp cần phải có Winrar để unzip, có thể download file cài dặt tại http://www.download.com.vn/data+file/more+data+file/5250_winrar-32-bit.aspx
+
+[[File:http://www.evtext.net/~hungnq/images/bicorpus03.JPG|thumb|alt=A cartoon centipede reads books and types on a laptop.|The Wikipede edits ''[[Myriapoda]]''.]]
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
