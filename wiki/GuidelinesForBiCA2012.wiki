@@ -6,7 +6,7 @@
   * Framkework: .NET 2.0 - địa chỉ download là http://www.microsoft.com/download/en/details.aspx?id=19
   Trường hợp hệ điều hành là Windows 7 thì không cần phải cài .Net Framwork 2.0 nữa. Vì bản thân nó support sẵn rồi.
 
-  * Chương trình: BiCA2012 - địa chỉ download là http://www.evtext.net/~hungnq/BiCA2012.rar 
+  * Chương trình: BiCA2012 - địa chỉ download là [http://www.evtext.net/~hungnq/BiCA2012.rar] 
   Download file rar và unzip chương trình. Trường hợp cần phải có Winrar để unzip, có thể download file cài dặt tại http://www.download.com.vn/data+file/more+data+file/5250_winrar-32-bit.aspx
 
 Add your content here.  Format your content with:
