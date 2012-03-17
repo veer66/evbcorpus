@@ -62,11 +62,11 @@ Sau khi thực hiện hoàn tất tất cả các cặp paragraph, đóng cửa 
 
 Một số tiêu chí chỉnh sửa dữ liệu liên kết từ như sau:
 
-    Có thể chỉnh sửa cho cả tiếng Anh lẫn tiếng Việt, bao gồm chỉnh từ (chính tả) và chỉnh cấu trúc, cũng có thể xóa bỏ những từ không được dịch trong cả 2 ngôn ngữ bằng cách chọn từ đó rồi nhấn DELETE.
+  * Có thể chỉnh sửa cho cả tiếng Anh lẫn tiếng Việt, bao gồm chỉnh từ (chính tả) và chỉnh cấu trúc, cũng có thể xóa bỏ những từ không được dịch trong cả 2 ngôn ngữ bằng cách chọn từ đó rồi nhấn DELETE.
 
-    Liên kết ở mức từ tối đa, trong trường hợp nghĩa phải là của một cụm từ thì mới liên kết cụm.
+  * Liên kết ở mức từ tối đa, trong trường hợp nghĩa phải là của một cụm từ thì mới liên kết cụm.
 
-    Các nghĩa "bị", "đang", "được" ... thường được liên kết gắn vào động từ chứ không liên kết với toBE.
+  * Các nghĩa "bị", "đang", "được" ... thường được liên kết gắn vào động từ chứ không liên kết với toBE.
 
 === 4.3. Các button tinh chỉnh giao diện chương trình ===
 [http://www.evtext.net/~hungnq/images/bicorpus04.JPG]
