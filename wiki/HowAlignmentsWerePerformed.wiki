@@ -1,7 +1,7 @@
 #summary How the alignments were performed
 
 === Process of building the English-Vietnamese bilingual corpus: ===
-1.* Raw Text Extraction:* The raw text was extracted from HTML files with using of the Majestic-12 Projects ([http://www.majestic12.co.uk/]).
+1.* Raw Text Extraction:* The raw text was extracted from HTML files with using of the Majestic-12 Projects ([http://www.majestic12.co.uk/]). The HTML files were collected manually from the Internet.
 
 2.* Sentence Splitter:* The raw text was split into sentences with OpenNLP's SentenceDetect ([http://opennlp.sourceforge.net/projects.html]).
 
