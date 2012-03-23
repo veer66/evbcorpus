@@ -15,4 +15,4 @@
 
 7.* Text Alignment:* The sentences were aligned at the word level with Phrase-based WA tool by NgoHung .
 
-8. One-to-one correspondences were then extracted from the aligned data.
+8. One-to-one correspondences were then extracted from the aligned data..
