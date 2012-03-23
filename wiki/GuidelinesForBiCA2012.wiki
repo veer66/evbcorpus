@@ -83,12 +83,9 @@ Tinh chỉnh hiển thị của cửa sổ chính
           + Ẩn/hiện các box +/- trên các node có node con.
           + Ẩn/hiện các liên kết thứ yếu.
 - Dòng 2:
-          + Tăng khoảng cách giữa 2 cây.
-          + Giảm khoảng cách giữa 2 cây.
-          + Tăng khoảng cách giữa 2 mức.
-          + Giảm khoảng cách giữa 2 mức.
-          + Tăng khoảng cách giữa 2 node lá.
-          + Giảm khoảng cách giữa 2 node lá.
+          + Tăng/Giảm khoảng cách giữa 2 cây.
+          + Tăng/Giảm khoảng cách giữa 2 mức.
+          + Tăng/Giảm khoảng cách giữa 2 node lá.
 Format 	
 
 Theo định nghĩa chuẩn của các chương trình soạn thảo (như WORD)
