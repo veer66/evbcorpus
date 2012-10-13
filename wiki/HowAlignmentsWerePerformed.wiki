@@ -13,6 +13,6 @@
 
 6.* Chunker for English:* The English text were parsed with Stanford Parser ([http://nlp.stanford.edu:8080/parser/]) and mapped to get chunker result.
 
-7.* Text Alignment:* The sentences were aligned at the word level with Phrase-based WA tool by NgoHung .
+7.* Text Alignment:* The sentences were aligned at the word level with Phrase-based WA tool by NgoHung.
 
-8. One-to-one correspondences were then extracted from the aligned data..
+8. One-to-one correspondences were then extracted from the aligned data.
