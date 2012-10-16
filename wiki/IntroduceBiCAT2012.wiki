@@ -1,5 +1,5 @@
-#summary One-sentence summary of this page.
-#labels BiCAT
+#summary BiCAT - Bilingual Corpus Annotation Tool
+#labels BiCAT,EVBCorpus,BilingualCorpus
 
 = Introduction =
 
