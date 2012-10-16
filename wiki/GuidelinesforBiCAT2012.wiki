@@ -1,5 +1,5 @@
 #summary Hướng dẫn sử dụng BiCAT2012
-#labels BiCAT,WordAlignment,POSTAgger,Chunker,NamedEntity
+#labels BiCAT,WordAlignment,POSTAgger,Chunker,NamedEntity,Annotation
 BiCAT - Bilingual Corpus Annotation Tool - là chương trình chỉnh sửa dữ liệu song ngữ (Anh-Việt) phục vụ các nghiên cứu xử lý ngôn ngữ tự nhiên trên cặp ngôn ngữ Anh, Việt.
 
 === 1. Yêu cầu cấu hình ===
