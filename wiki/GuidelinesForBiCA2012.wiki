@@ -1,4 +1,4 @@
-#summary Hướng dẫn sử dụng BiCA2012
+#summary Hướng dẫn sử dụng BiCAT2012
 
 === 1. Yêu cầu cấu hình ===
 
@@ -6,12 +6,12 @@
   * Framkework: .NET 2.0 - địa chỉ download là [http://www.microsoft.com/download/en/details.aspx?id=19]
   Trường hợp hệ điều hành là Windows 7 thì không cần phải cài .Net Framwork 2.0 nữa. Vì bản thân nó support sẵn rồi.
 
-  * Chương trình: BiCA2012 - địa chỉ download là [http://code.google.com/p/evbcorpus/downloads/detail?name=BiCA2012.v.1.0.rar] 
+  * Chương trình: BiCAT2012 - địa chỉ download là [http://code.google.com/p/evbcorpus/downloads/detail?name=BiCAT2012.v.1.0.rar] 
   Download file rar và unzip chương trình. Trường hợp cần phải có Winrar để unzip, có thể download file cài dặt tại [http://www.download.com.vn/data+file/more+data+file/5250_winrar-32-bit.aspx]
 
 === 2.  Cách chạy chương trình ===
 
-=== 2.1. Chay chương trình BiCA2012.exe ===
+=== 2.1. Chay chương trình BiCAT2012.exe ===
 [http://www.evtext.net/~hungnq/images/bicorpus01.JPG]
 Hình 1: Giao diện chính của chương trình
 
