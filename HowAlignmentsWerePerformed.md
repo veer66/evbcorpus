@@ -1,0 +1,16 @@
+### Process of building the English-Vietnamese bilingual corpus: ###
+1.**Raw Text Extraction:** The raw text was extracted from HTML files with using of the Majestic-12 Projects (http://www.majestic12.co.uk/). The HTML files were collected manually from the Internet.
+
+2.**Sentence Splitter:** The raw text was split into sentences with OpenNLP's SentenceDetect (http://opennlp.sourceforge.net/projects.html).
+
+3.**Vietnamese Word Segmentation:** The Vietnamese text were segmented Vietnamese words with Le Hong Phuong's vnTokenizer 4.1 (http://www.loria.fr/~lehong/tools/vnTokenizer.php) .
+
+4.**POS Tagger for Vietnamese:** Vietnamese sentences were tagged POS with Le Hong Phuong's with vnTagger version 4.2.0 (http://www.loria.fr/~lehong/tools/vnTagger.php).
+
+5.**Chunker for Vietnamese:** We build a chunker model to chunk Vietnamese sentences based on the VLSP data for chunker (http://vlsp.vietlp.org:8080/demo/) and the Yamcha toolkit for SVM model (http://chasen.org/~taku/software/yamcha/) .
+
+6.**Chunker for English:** The English text were parsed with Stanford Parser (http://nlp.stanford.edu:8080/parser/) and mapped to get chunker result.
+
+7.**Text Alignment:** The sentences were aligned at the word level with Phrase-based WA tool by [NgoHung<https://sites.google.com/a/uit.edu.vn/hungnq/>.
+
+8. One-to-one correspondences were then extracted from the aligned data.

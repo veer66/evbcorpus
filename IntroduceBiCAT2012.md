@@ -1,0 +1,3 @@
+# Introduction #
+
+BiCAT - Bilingual Corpus Annotation Tool - is an annotation tool for linguistic tagging. The tags which are annotated by the tool include Word Segmentation, POS Tag, Chunker, Named Entity, and Word Alignment.
